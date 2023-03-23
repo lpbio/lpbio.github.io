@@ -17,6 +17,18 @@ a {
     text-decoration: none;
     color: #4586FF; }
 
+mark.gold {
+  background-color: #D4AF37;
+}
+
+mark.silver {
+  background-color: #C0C0C0;
+}
+
+mark.bronze {
+  background-color: #9F7A34;
+}
+
 h1, h2, h3, h4, h5, h6
 .h1, .h2, .h3, .h4, .h5, h6 {
   line-height: 1.45;
@@ -560,3 +572,4 @@ textarea {
   list-style-type: circle;
   margin: 2.5%;
 }
+
